@@ -1,0 +1,5 @@
+{
+  "name": "FinTrack - Premium Stock Analysis",
+  "description": "A high-fidelity financial analysis dashboard featuring real-time market data, technical charts, analyst ratings, and AI-powered insights using the Gemini API.",
+  "requestFramePermissions": []
+}
